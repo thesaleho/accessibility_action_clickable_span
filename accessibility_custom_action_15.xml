@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name=" 👮POS🔺RONDA👮 " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="46560" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="1🔺 VPS"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="144.76.73.12" port="39790" region="Vps regional" url="http://mb.puma-network.net" token=""/>
+<server name="1🔺 EVO PTT ( Playstor )"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="116.203.233.105" port="64740" region="Vps regional" url="http://mb.puma-network.net" token="evopttpass"/>
 <server name="2🔺 MPA ( Madiun Plat Ae )" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="3🔺 RWK ( Radio Warga Kita )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="32869" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
 <server name="4🔺 DRN ( Digital Radio Nasional )"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble.nasional.online" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
