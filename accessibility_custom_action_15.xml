@@ -7,7 +7,7 @@
 <server name="4🔺 DRN ( Digital Radio Nasional )"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble.nasional.online" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="5🔺 RDV ( Bandung )"ca="0" continent_code="ID" country="CHANNEL 005" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Vps Channel" url="http://mb.puma-network.net" token="75"/>
 <server name="6🔺 PSM ( Pastorin Moto ) " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="mqtt.pastorinmoto.org" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-<server name="7🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="7🔺 FRANCIS" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="mumble.virtualkitchen.org" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="8🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="9🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 09" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="A🔺  KOSONG " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="164.132.3.62" port="46672" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
