@@ -10,7 +10,7 @@
 <server name="7🔺 SNB ( Nusantara Bersatu )" ca="0" continent_code="ID" country="CHANNEL 007" country_code="ID" ip="mumble-us.cleanvoice.com" port="32756" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="8🔺 TRANSNET ( Magelang ) " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="transnet.mumble.gg" port="10041" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="9🔺 RKN ( Radio Karya Nada ) " ca="0" continent_code="ID" country="CHANNEL 09" country_code="ID" ip="mumble-ru.cleanvoice.com" port="20690" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="A🔺 RCI ( Aniversary ) " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="A🔺 RAKOMNAS ( Nuansa Sahabat ) " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="rkn.romzi.online" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="B🔺 RWT ( Radio Walkie Talkie ) " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="C🔺 TAIWAN " ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="taiwannumberone.freeddns.org" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
