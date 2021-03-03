@@ -1,7 +1,6 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name=" 👮PUSAT LAYANAN VPS 3👮 " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="164.132.3.62" port="47641" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="0🔺 RAS ( Radio Angin Server ) " ca="0" continent_code="ID" country="CHANNEL 008" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="1🔺 PANJI ASMORO ( NEW )"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="47804" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
 <server name="2🔺 MPA ( Madiun Plat Ae )" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="3🔺 RCA ( Radio Com Andoid )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="33957" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
