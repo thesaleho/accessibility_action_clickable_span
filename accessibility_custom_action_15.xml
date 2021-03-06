@@ -11,6 +11,7 @@
 <server name="8 🇮🇩 RKN ( Radio Karya Nada ) " ca="0" continent_code="ID" country="CHANNEL 09" country_code="ID" ip="mumble-ru.cleanvoice.com" port="20690" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="9 🇮🇩 RWT ( Radio Walkie Talkie ) " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="A 🇮🇩 RCI ( Reunion )" ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="9 🇮🇩 SMA ( Monitor Saja Ya ) " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="36.94.60.35" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="B 🇹🇷 TAIWAN { Gamming }" ca="0" continent_code="ID" country="CHANNEL 012" country_code="ID" ip="taiwannumberone.freeddns.org" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
