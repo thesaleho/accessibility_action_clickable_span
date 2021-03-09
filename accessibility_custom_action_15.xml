@@ -7,7 +7,7 @@
 <server name="4 🇮🇩 RDPV ( Bandung )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
 <server name="5 🇮🇩 RCA ( Radio Komunikasi Android )" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="33957" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
 <server name="6 🇮🇩 RNS ( Radio Nuansa Sahabat  ) " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.online" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-<server name="7 🇮🇩 RBB ( BAMBANG )"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
+<server name="7 🇮🇩 RBB ( RADIO BAMBANG GENTOLET )"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
 <server name="8 🇮🇩 RPB ( Radio Pontianak Bersatu ) " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="9 🇮🇩 RWT ( Radio Walkie Talkie ) " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
