@@ -10,6 +10,6 @@
 <server name="7 🇮🇩 RBI ( Radio Briker Indonesia )"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
 <server name="8 🇮🇩 RPB ( Radio Pontianak Bersatu ) " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="9 🇮🇩 RWT ( Radio Walkie Talkie ) " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="A ⛔ MAINTENANCE AUTO UPDATE SERVER " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="A ⛔ MAINTENANCE AUTO UPDATE " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
