@@ -4,14 +4,15 @@
 <server name="1 🇮🇩 PANJI ASMORO : New"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="47804" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
 <server name="2 🇮🇩 MPA : Mama Pingin Anu" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="3 🇮🇩 DRN : Digital Radio Nasional"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble.nasional.online" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="4 🇮🇩 RDPV : Bandung" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="5 🇮🇩 RCA : Online " ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="33957" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
+<server name="4 🇮🇩 DRN : Amatir Link " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="103.152.119.227" port="64750" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="5 🇮🇩 RDPV : Bandung" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
+<server name="6 🇮🇩 RCA : Online " ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="33957" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
 <server name=" 👮 🇵​🇴​🇸​🔺🇷​🇴​🇳​🇩​🇦​ 👮 " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="6 🇮🇩 RNS : Radio Nuansa Sahabat " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.online" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-<server name="7 🇮🇩 BI : Briker Indonesia "ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
-<server name="8 🇮🇩 RPB : Radio Pontianak Bersatu " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="9 🇮🇩 RWT : Radio Walkie Talkie " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="8 🇮🇩 HT : Halo Teman " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="halo.nasional.online" port="64747" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="A ⛔ MAINTENANCE ⛔ " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="7 🇮🇩 RNS : Radio Nuansa Sahabat " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.online" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
+<server name="8 🇮🇩 BI : Briker Indonesia "ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
+<server name="9 🇮🇩 RPB : Radio Pontianak Bersatu " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="A 🇮🇩 RWT : Radio Walkie Talkie " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="B 🇮🇩 HT : Halo Teman " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="halo.nasional.online" port="64747" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="C ⛔ MAINTENANCE ⛔ " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
