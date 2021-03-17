@@ -1,6 +1,6 @@
 <servers>
 <server name="Pos Ronda Vps-3" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
-<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="server3.nasional.online" port="64750" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="evo.ptt.net" port="68650" region="ID" url="http://radio.nasional.online" token=""/>
  <!--
  <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
