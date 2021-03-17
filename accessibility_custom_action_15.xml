@@ -1,5 +1,4 @@
 <?xml version='1.0' standalone='yes'?>
-<servers>
 <server name="P0SS RONDA 23 JAM="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="KANDANG PITIK" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL IDN 01"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="144.76.73.12" port="39164" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
