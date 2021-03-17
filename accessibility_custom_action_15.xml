@@ -1,17 +1,17 @@
 <servers>
-<server name="Pos Ronda Vps-3" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
-<server name="ORARI Nama Pake CALLSIGN Aktif" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="server3.nasional.online" port="64750" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="Pos Ronda Vps-3" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="server3.nasional.online" port="64750" region="ID" url="http://radio.nasional.online" token=""/>
  <!--
- <server name="NGEBRIK ASIK" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="lekdhi.nasional.online" port="55555" region="ID" url="http://radio.nasional.online" token=""/> 
+ <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
-<server name="KUMBANG CARAKA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="server1.nasional.online" port="64745" region="ID" url="http://radio.nasional.online" token=""/>
-<server name="KOMUNIKASI" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="komunikasi.ptk.co.id" port="64738" region="ID" url="http://radio.nasional.online" token=""/>
-<server name="KHATULISTIWA" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="khatulistiwa.ptk.co.id" port="64735" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="master.quint" port="64745" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="busid.server.maleo" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mmc.net" port="64735" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
  <!--
- <server name="DIGITAL RADIO NASIONAL BACKUP" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="server3.nasional.online" port="64738" region="ID" url="http://radioe.nasional.online" token=""/> 
+ <server name="Link Jipatu 147" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="qrtalk.net" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
-<server name="SERVER BERSAMA KARAOKE" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="rpv.nasional.online" port="64740" region="ID" url="http://radio.nasional.online" token=""/>
-<server name="PRIVATE" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="server2.nasional.online" port="64735" region="ID" url="http://amatir.latimojong.com" token=""/>
-<server name="TUNGGU UPDATE SERVER" ca="0" continent_code="AS" country="INDONESIA" country_code="ID" ip="cooming.soon" port="64741" region="ID" url="http://mumble.nasional.online" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="bttalk.net" port="64740" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="rajatega.net.flik" port="64735" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="Perbaikan" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="stk.net" port="64741" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 -->
 </servers>
