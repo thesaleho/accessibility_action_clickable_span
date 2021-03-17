@@ -5,7 +5,7 @@
 <server name="CHANNEL IDN 01"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="144.76.73.12" port="39164" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
 <server name="CHANNEL IDN 02" ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="39163" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="CHANNEL IDN 03" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="58718" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="6 🇮🇩 NAIK TARAF " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.onlinem" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-<server name="B ⛔ MAINTENANCE ⛔ " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="CHANNEL IDN 04 " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="144.76.73.12" port="39162" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
+<server name="⛔ MAINTENANCE ⛔ " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
