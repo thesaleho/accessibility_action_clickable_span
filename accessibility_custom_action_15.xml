@@ -1,6 +1,6 @@
 <? xml version = '1.0' standalone = 'yes'?> 
 <servers> 
-<name server = "DRN AMATIR RADImO" ca = "0" benua_code = "ID" country = "01" country_code = "ID" ip = "103.152.119.227" port = "64750" region = "indonesia" url = "https : //server3.nasional.online "token =" "/> 
+<name server = "DRN AMATIR RADImO" ca = "0" benua_code = "ID" country = "01" country_code = "ID" ip = "103.152.119.228" port = "64750" region = "indonesia" url = "https : //server3.nasional.online "token =" "/> 
 <name server = "KANTOR RPV DAN MUSIC" ca = "0" benua_code = "ID" country = "02" country_code = "ID" ip = "101.255.4.194" port = "64738" region = "indonesia" url = " https://radio.nasional.online "token =" "/> 
 <name server = "RbADIO PUTRA DAERAH" ca = "0" benua_code = "ID" country = "03" country_code = "ID" ip = "101.255.4.194" port = "64750" region = "indonesia" url = "https : //rad.romzi.online "token =" "/> 
 <name server = "RADIO VIRTUAL PADUKA" ca = "0" benua_code = "ID" country = "04" country_code = "ID" ip = "101.255.4.194" port = "64720" region = "indonesia" url = "https : //paduka.romzi.online "token =" "/> 
