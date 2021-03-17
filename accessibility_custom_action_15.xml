@@ -1,10 +1,10 @@
 <servers>
-<server name="Pos Ronda Vps-3" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
-<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="evo.ptt.net" port="68650" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="Pos Ronda Vps-3" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
+<server name="Kandang Pitik" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39891" region="ID" url="http://radio.nasional.online" token=""/>
  <!--
  <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
-<server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="master.quint" port="64745" region="ID" url="http://radio.nasional.online" token=""/>
+<server name="ROOM 01" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39164" region="ID" url="http://radio.nasional.online" token=""/>
 <server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="busid.server.maleo" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 <server name="OFline" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mmc.net" port="64735" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
  <!--
