@@ -1,10 +1,1 @@
-<?xml version='1.0' standalone='yes'?>
-<servers>
-<server name="P0SS RONDA 23 JAM="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="KANDANG PITIK" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL IDN 01"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="144.76.73.12" port="39164" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="CHANNEL IDN 02" ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="39163" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="CHANNEL IDN 03" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us2.cleanvoice.com" port="58718" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="CHANNEL IDN 04 " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="144.76.73.12" port="39162" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-</servers>
 
