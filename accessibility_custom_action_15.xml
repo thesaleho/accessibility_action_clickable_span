@@ -1,17 +1,13 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name=" 👮 🇵​🇴​🇸​🔺🇷​🇴​🇳​🇩​🇦​ 👮 " ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="144.76.73.12" port="43077" region="Vps Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="1 🇮🇩 HT : Hallo Teman  " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="halo.nasional.online" port="64747" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="2 🇮🇩 MPA : Info Ternak Ayam" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="3 🇮🇩 DRN : Digital Radio Nasional"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble.nasional.online" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
-<server name="4 🇮🇩 MCO : Global Radio " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="127.178.193.241" port="95750" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="5 🇮🇩 RDPV : Kacangan Amatiran" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="6 🇮🇩 RNS : Radio Nuansa Sahabat " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.online" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
-<server name="7 🇮🇩 RPB : Radio Pontianak Bersatu " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.12" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="8 🇮🇩 RWT : Owner Pensiun Ngedit " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
-<server name="9 🇮🇩 RCA : Privated " ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoice.com" port="33957" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
-<server name="A 🇮🇩 PAS : Room Sepi"ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="47804" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
-<server name="A 🇮🇩 BI : "ca="0" continent_code="ID" country="CHANNEL 001" country_code="ID" ip="164.132.3.62" port="46064" region="Vps regional" url="http://mb.puma-network.net" token="noted"/>
+<server name="2 🇮🇩 CUSTOMER SERVISES MADIUN AREA" ca="0" continent_code="ID" country="CHANNEL 002" country_code="ID" ip="144.76.73.12" port="39891" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="3 🇮🇩 ALIH FUNGSI KE CYBER-NET"ca="0" continent_code="ID" country="CHANNEL 004" country_code="ID" ip="mumble.nasional.onlinhe" port="64738" region="Vps Channel" url="http://mb.puma-network.net" token=""/>
+<server name="4 🇮🇩 SEDANG UJICOBA CYBER-NET " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="127.178.193.241" port="95750" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="5 🇮🇩 SEDANG PEMBAHARUAN" ca="0" continent_code="ID" country="CHANNEL 003" country_code="ID" ip="mumble-us.cleanvoibe.com" port="34267" region="Vps Member" url="http://mb.puma-network.net" token="75"/>
+<server name="6 🇮🇩 NAIK TARAF " ca="0" continent_code="ID" country="CHANNEL 006" country_code="ID" ip="rkn.romzi.onlinem" port="44720" region="Vps Channel" url="http://mb.puma-network.net" token="null"/>
+<server name="7 🇮🇩 PERGANTIAN OWNER VPS-3 " ca="0" continent_code="ID" country="CHANNEL 010" country_code="ID" ip="144.76.73.124" port="40346" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
+<server name="8 🇮🇩 MANAGEMEN BARU PROGRAM BARU " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.126" port="42466" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 <server name="B ⛔ MAINTENANCE ⛔ " ca="0" continent_code="ID" country="CHANNEL 011" country_code="ID" ip="144.76.73.12" port="42406" region="Vps Channel" url="http://mb.puma-network.net" token="STK"/>
 </servers>
 
