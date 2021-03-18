@@ -12,6 +12,6 @@
 -->
 <server name="ROOM KARAOKE 1" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39162" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 <server name="DRN : Digital Radio Nasional" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mumble.nasional.online" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
-<server name="HT  : Hallo Teman" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="halo.nasional.online" port="64747" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="HT   : Hallo Teman" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="halo.nasional.online" port="64747" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 -->
 </servers>
