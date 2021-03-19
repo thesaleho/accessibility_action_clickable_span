@@ -1,6 +1,5 @@
 <servers>
-<server name=" 🇮🇩 POS RONDA 24 JAM" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
-<server name=" 🇮🇩 KANDANG PITIK 🐔" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39891" region="ID" url="http://radio.nasional.online" token=""/>
+<server name=" 🇮🇩 POS RONDA" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="43077" region="ID" url="http://http://malagafm2.wapath.com" token="null"/>
  <!--
  <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
@@ -13,6 +12,7 @@
 <server name=" 🇮🇩 ROOM 04" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39162" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 <server name=" 🇮🇩 DRN : Digital Radio Nasional" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="mumble.nasional.online" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 <server name=" 🇮🇩 HT   : Hallo Teman" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="halo.nasional.online" port="64747" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name=" 🇮🇩 MPA : Madiun Plat Ae" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="144.76.73.12" port="39891" region="ID" url="http://radio.nasional.online" token=""/>
 <server name=" ⛔ MAINTENANCE : Dalam Perbaikan " ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="halo.nasional.onlines" port="64767" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
 -->
 </servers>
