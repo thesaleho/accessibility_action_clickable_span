@@ -19,4 +19,5 @@
 <server name=" 11 🇮🇩 GALAXI " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="103.157.116.101" port="55555" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name=" 12 🇮🇩 KL.648 " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="mumble-us2.cleanvoice.com" port="57138" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name=" 13 🇮🇩 R.SAHABAT " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="51338" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name=" 14 🇮🇩 R.PV " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="46761" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
