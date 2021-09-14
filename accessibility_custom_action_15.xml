@@ -20,7 +20,4 @@
 <server name=" 12 - KL.648 " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="mumble-us2.cleanvoice.com" port="57138" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name=" 13 - R.SAHABAT " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="51338" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name=" 14 - R.PV " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="46761" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 15 - R.KB " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="101.255.4.194" port="64720" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 16 - N.SANTAI " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="49408" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 18 - 0SM " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="164.132.3.62" port="48208" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
