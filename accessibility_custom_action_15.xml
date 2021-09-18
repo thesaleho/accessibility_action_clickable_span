@@ -1,19 +1,19 @@
 <servers>
 <server name=" 🖥️ KANTOR PUSAT VPS​ 🖥️" ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="164.132.3.62" port="52965" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" NO : 1 - RSJ SERVER " ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="164.132.3.62" port="51005" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 RSJ SERVER " ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="164.132.3.62" port="51005" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
  <!--
  <server name="Cyber Net" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="eropa.server.vps.net" port="43078" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
-<server name=" N0 : 2 - RDPV​ :   " ca="0" continent_code="MY" country="RADIO DUPAN PARAHYANGAN" country_code="ID" ip="198.24.160.150" port="34267" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 RDPV​ :   " ca="0" continent_code="MY" country="RADIO DUPAN PARAHYANGAN" country_code="ID" ip="198.24.160.150" port="34267" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
  <!--
  <server name="Link Jipatu 147" ca="0" continent_code="MY" country="INDONESIA" country_code="ID" ip="qrtalk.net" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/> 
 -->
-<server name=" NO : 3 + SBG MALANG​   " ca="0" continent_code="MY" country="SEDULUR BRIGH GAYENG" country_code="ID" ip="198.24.160.150" port="33301" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
-<server name=" NO : 4 + DRN​  " ca="0" continent_code="MY" country="DIGITAL RADIO NASIONAL" country_code="ID" ip="202.157.186.91" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
-<server name=" NO : 6 + BRIKER FM 90​  " ca="0" continent_code="MY" country="BRIKER FM 90" country_code="ID" ip="95.216.18.242" port="20849" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" NO : 7 + WBA​ " ca="0" continent_code="MY" country="SURYA OKU" country_code="ID" ip="149.56.14.62" port="61100" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" NO : 8 + R.87" ca="0" continent_code="MY" country="RADIO.87" country_code="ID" ip="164.132.3.62" port="51938" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 10 - RKW " ca="0" continent_code="MY" country="RAKOMWAR BARU" country_code="ID" ip="164.132.3.62" port="52272" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 11 - GALAXI " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="103.157.116.101" port="55555" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
-<server name=" 12 - KL.648 " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="mumble-us2.cleanvoice.com" port="57138" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 SBG MALANG​   " ca="0" continent_code="MY" country="SEDULUR BRIGH GAYENG" country_code="ID" ip="198.24.160.150" port="33301" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 DRN​  " ca="0" continent_code="MY" country="DIGITAL RADIO NASIONAL" country_code="ID" ip="202.157.186.91" port="64738" region="ID" url="http://http://malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 BRIKER FM 90​  " ca="0" continent_code="MY" country="BRIKER FM 90" country_code="ID" ip="95.216.18.242" port="20849" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 WBA​ " ca="0" continent_code="MY" country="SURYA OKU" country_code="ID" ip="149.56.14.62" port="61100" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 bn" ca="0" continent_code="MY" country="RADIO.87" country_code="ID" ip="164.132.3.62" port="51938" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 RKW " ca="0" continent_code="MY" country="RAKOMWAR BARU" country_code="ID" ip="164.132.3.62" port="52272" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 GALAXI " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="103.157.116.101" port="55555" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 KL.648 " ca="0" continent_code="MY" country="YANGAN" country_code="ID" ip="mumble-us2.cleanvoice.com" port="57138" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
