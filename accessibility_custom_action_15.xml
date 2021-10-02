@@ -1,4 +1,5 @@
 <servers>
 <server name=" 🖥️ KANTOR PUSAT VPS​ 🖥️" ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="164.132.3.62" port="52965" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
+<server name="🇮🇩 500 CC " ca="0" continent_code="MY" country="R" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 <server name="🇮🇩 RSJ SERVER " ca="0" continent_code="MY" country="RADIO KITA BERSAMA" country_code="ID" ip="164.132.3.62" port="51005" region="ID" url="http://radio.malagafm2.wapath.com" token=""/>
 </servers>
